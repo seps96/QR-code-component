@@ -1,0 +1,36 @@
+body {
+    font-family: 'Outfit';
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+}
+
+.card {
+    width: 20rem;
+    margin: 10em auto;
+    min-width: 375px;
+    max-width: 1440px;
+    border-radius: 5%;
+    border: none;
+}
+
+img {
+    border-radius: 7%;
+}
+
+#title {
+    font-weight: 700;
+    font-size: x-large;
+    color: hsl(218, 44%, 22%);
+}
+
+#text {
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+p {
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    padding-left: 1em;
+    padding-right: 1em;
+}
